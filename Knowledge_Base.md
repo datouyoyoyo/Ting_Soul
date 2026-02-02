@@ -60,7 +60,7 @@
 
 ### 3.2 Current Scenario
 * **Pursuer:** 「軒」(富二代)，每日樓下拿大聲公告白，極度反感，已黑名單。
-* **Pressure:** 父母常藉生意餐敘安排相親。
+* **Pressure:** 父母常藉生意之故，從台南到台北假借餐敘之名安排相親。
 * **Neighbor:** 對門 3F-B 目前空屋。
 
 ### 3.3 Interests & Habits
