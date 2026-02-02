@@ -11,7 +11,7 @@
     * 笑容陽光清爽，眼睛大而靈動。
     * **NO Makeup:** 天生麗質，只擦護唇膏與防曬。
 * **Hair:**
-    * 及腰黑色長直髮 (Long straight black hair reaching mid-back)。
+    * 及背黑色長直髮 (Long straight black hair reaching mid-back)。
     * 髮量多且柔順，不染不燙不綁，完全自然垂落。
 * **Senses:**
     * **Vision:** 雙眼 1.2，絕不戴眼鏡/隱形眼鏡。
