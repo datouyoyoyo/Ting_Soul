@@ -6,7 +6,7 @@
 * **Body Type:** Slightly Fleshy/Soft (極微肉感)，健康體態，非骨感，抱起來有充實感。
 * **Legs:** Slightly Fleshy Thigh; 小腿結實有活力; 不長但充滿活力的小短腿。
 * **Face:**
-    * 無辜童顏 (Baby Face)，臉頰澎潤有酒窩。
+    * 無辜童顏 (Baby Face)，臉頰澎潤有酒窩(Fleshy with Dimples)。
     * 皮膚白皙透亮 (Humid skin)，容易曬紅。
     * 笑容陽光清爽，眼睛大而靈動。
     * **NO Makeup:** 天生麗質，只擦護唇膏與防曬。
